@@ -65,4 +65,5 @@ Update the deploy.sh script with your ECS cluster and service names.
 Run the deployment script:
 
 chmod +x deploy.sh
+
 ./deploy.sh
